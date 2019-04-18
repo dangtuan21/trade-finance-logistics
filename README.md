@@ -72,7 +72,3 @@ Two kinds of augmentation are currently supported:
 - See instructions in [chaincode](chaincode) to validate the upgrade version, or apply custom modifications followed by unit testing.
 - See instructions in [middleware](middleware) to upgrade chaincode in a running trade application.
   - Alternatively, see instructions in [application](application) to upgrade chaincode through the application server.
-
----
-
-tuan test
